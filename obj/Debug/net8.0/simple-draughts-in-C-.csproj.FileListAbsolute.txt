@@ -1,0 +1,15 @@
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/bin/Debug/net8.0/simple-draughts-in-C-
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/bin/Debug/net8.0/simple-draughts-in-C-.deps.json
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/bin/Debug/net8.0/simple-draughts-in-C-.runtimeconfig.json
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/bin/Debug/net8.0/simple-draughts-in-C-.dll
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/bin/Debug/net8.0/simple-draughts-in-C-.pdb
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/obj/Debug/net8.0/simple-draughts-in-C-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/obj/Debug/net8.0/simple-draughts-in-C-.AssemblyInfoInputs.cache
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/obj/Debug/net8.0/simple-draughts-in-C-.AssemblyInfo.cs
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/obj/Debug/net8.0/simple-draughts-in-C-.csproj.CoreCompileInputs.cache
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/obj/Debug/net8.0/simple-draughts-in-C-.sourcelink.json
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/obj/Debug/net8.0/simple-draughts-in-C-.dll
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/obj/Debug/net8.0/refint/simple-draughts-in-C-.dll
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/obj/Debug/net8.0/simple-draughts-in-C-.pdb
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/obj/Debug/net8.0/simple-draughts-in-C-.genruntimeconfig.cache
+/Users/kylemcilwraith/Desktop/simple-draughts-in-C-/obj/Debug/net8.0/ref/simple-draughts-in-C-.dll
